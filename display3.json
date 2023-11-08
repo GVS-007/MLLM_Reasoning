@@ -1,0 +1,35 @@
+[
+    {
+        "obj_json": {
+            "clock 1": 1,
+            "square": 2,
+            "orange": 4
+        },
+        "qa_pairs": [
+            {
+                "question": "If there is a clock in the image, What time does the clock show?",
+                "answer": "1 o'clock",
+                "question_type": "clock",
+                "answer_type": "string",
+                "category_type": "inter_category",
+                "source_function": "generate_clock_time_questions"
+            },
+            {
+                "question": "If there is a clock in the image, what time does the clock show after two hours?",
+                "answer": "3 o'clock",
+                "question_type": "clock",
+                "answer_type": "string",
+                "category_type": "inter_category",
+                "source_function": "generate_clock_time_questions"
+            },
+            {
+                "question": "How many times does the hands cross each other when the clock hits 12 o'clock for the first time in the image?",
+                "answer": "11 times",
+                "question_type": "clock",
+                "answer_type": "string",
+                "category_type": "inter_category",
+                "source_function": "generate_clock_time_questions"
+            }
+        ]
+    }
+]

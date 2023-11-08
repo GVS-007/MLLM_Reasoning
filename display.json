@@ -1,0 +1,1495 @@
+{
+    "obj_json": {
+        "apple": 2,
+        "orange": 1
+    },
+    "qa_pairs": [{
+        "question": "If a person adds 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 apple, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 2 apples, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 3 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person takes away 1 apple, How many total apples remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple, How many total fruits remain in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takes away 2 apples, How many total apples remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 orange, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange, How many total fruits remain in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takes away 1 apple, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple, How many total fruits remain in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takes away 2 apples, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 orange, How many total apples remain in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takes away 1 orange, How many total fruits remain in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 apple and 1 apple, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 apple and 1 apple, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 apple and 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and 2 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and 2 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 apple and 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and 3 apples, How many total apples are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and 3 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 apple and 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 apple and 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 1 apple, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 apples and 1 apple, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 2 apples and 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and 2 apples, How many total apples are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and 2 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 2 apples and 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 3 apples, How many total apples are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 3 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 2 apples and 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 apples and 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 1 apple, How many total apples are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 3 apples and 1 apple, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 3 apples and 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and 2 apples, How many total apples are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and 2 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 3 apples and 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 3 apples, How many total apples are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 3 apples, How many total oranges are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 3 apples and 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 apples and 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 1 apple and 1 orange, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 apple and 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and 2 oranges, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and 3 oranges, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 apple and 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 apple and 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 1 orange, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 apples and 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and 2 oranges, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 apples and 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and 3 oranges, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 apples and 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 1 orange, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 apples and 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and 2 oranges, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 3 apples and 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and 3 oranges, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 apples and 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 apples and 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 1 orange and 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 orange and 1 apple, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 orange and 2 apples, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 3 apples, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 orange and 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and 1 apple, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges and 2 apples, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 oranges and 3 apples, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 oranges and 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 3 oranges and 1 apple, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and 2 apples, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges and 3 apples, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 oranges and 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 1 orange and 1 orange, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 1 orange, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 orange and 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 2 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 2 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 orange and 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and 3 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and 3 oranges, How many total oranges are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 orange and 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 1 orange, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 oranges and 1 orange, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges and 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and 2 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 oranges and 2 oranges, How many total oranges are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 oranges and 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and 3 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 oranges and 3 oranges, How many total oranges are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 oranges and 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 1 orange, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 oranges and 1 orange, How many total oranges are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges and 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and 2 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 oranges and 2 oranges, How many total oranges are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 3 oranges and 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and 3 oranges, How many total apples are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 oranges and 3 oranges, How many total oranges are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 oranges and 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person takes away 1 apple and 1 apple, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 1 apple, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 1 apple, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 1 apple, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 2 apples, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 2 apples, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 2 apples, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 apple and 2 apples, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 1 apple, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples and 1 apple, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples and 1 apple, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 1 apple, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 2 apples, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples and 2 apples, How many total oranges remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples and 2 apples, How many total fruits remain in the image?",
+        "answer": -1
+    }, {
+        "question": "If a person takes away 2 apples and 2 apples, How many total fruits remain in the image?",
+        "answer": -1
+    }, {
+        "question": "If a person takes away 1 apple and 1 orange, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 apple and 1 orange, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 apple and 1 orange, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 apple and 1 orange, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 2 apples and 1 orange, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 1 orange, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 1 orange, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 2 apples and 1 orange, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 1 apple, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 1 apple, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 1 apple, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 orange and 1 apple, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 orange and 2 apples, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 2 apples, How many total oranges remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 2 apples, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 2 apples, How many total fruits remain in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takes away 1 orange and 1 orange, How many total oranges remain in the image?",
+        "answer": -1
+    }, {
+        "question": "If a person takes away 1 orange and 1 orange, How many total oranges remain in the image?",
+        "answer": -1
+    }, {
+        "question": "If a person takes away 1 orange and 1 orange, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takes away 1 orange and 1 orange, How many total fruits remain in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 orange and adds 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 orange and adds 1 apple, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and takeaways 1 apple, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 orange and takeaways 1 apple, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 orange and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 orange and adds 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 orange and adds 1 apple, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 orange and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 1 apple, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 1 apple, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 orange and adds 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 orange and adds 2 apples, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 orange and takeaways 2 apples, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 1 orange and takeaways 2 apples, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takeaways 1 orange and adds 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 1 orange and adds 2 apples, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 1 orange and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 2 apples, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 2 apples, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 1 orange and adds 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 orange and adds 3 apples, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 orange and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 orange and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person takeaways 1 orange and adds 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person takeaways 1 orange and adds 3 apples, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 orange and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person takeaways 1 orange and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 oranges and adds 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and adds 1 apple, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 1 apple, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 1 apple, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges and adds 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 oranges and adds 2 apples, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 2 apples, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 2 apples, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and adds 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 oranges and adds 3 apples, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 oranges and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 oranges and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and adds 1 apple, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 3 oranges and adds 1 apple, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and adds 1 apple, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 1 apple, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 1 apple, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 1 apple, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges and adds 2 apples, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and adds 2 apples, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and adds 2 apples, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 2 apples, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 2 apples, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and takeaways 2 apples, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and adds 3 apples, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 oranges and adds 3 apples, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 oranges and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 oranges and adds 3 apples, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 1 apple and adds 1 orange, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 1 apple and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 1 apple and takeaways 1 orange, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and takeaways 1 orange, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 1 apple and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 apple and adds 1 orange, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 apple and adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takeaways 1 apple and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 apple and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 apple and takeaways 1 orange, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 apple and takeaways 1 orange, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 1 apple and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 apple and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person adds 1 apple and adds 2 oranges, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 1 apple and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person takeaways 1 apple and adds 2 oranges, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 apple and adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 1 apple and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 1 apple and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 apple and adds 3 oranges, How many total apples are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 1 apple and adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 1 apple and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 1 apple and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person takeaways 1 apple and adds 3 oranges, How many total apples are there in the image?",
+        "answer": 1
+    }, {
+        "question": "If a person takeaways 1 apple and adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 1 apple and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person takeaways 1 apple and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 2 apples and adds 1 orange, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 2 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 6
+    }, {
+        "question": "If a person adds 2 apples and takeaways 1 orange, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and takeaways 1 orange, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 2 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 2 apples and adds 1 orange, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takeaways 2 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takeaways 2 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person takeaways 2 apples and takeaways 1 orange, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and takeaways 1 orange, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 2 apples and adds 2 oranges, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 2 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person takeaways 2 apples and adds 2 oranges, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 2 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person takeaways 2 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 2 apples and adds 3 oranges, How many total apples are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 2 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 2 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person takeaways 2 apples and adds 3 oranges, How many total apples are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person takeaways 2 apples and adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 2 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person takeaways 2 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 apples and adds 1 orange, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and adds 1 orange, How many total oranges are there in the image?",
+        "answer": 2
+    }, {
+        "question": "If a person adds 3 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and adds 1 orange, How many total fruits are there in the image?",
+        "answer": 7
+    }, {
+        "question": "If a person adds 3 apples and takeaways 1 orange, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and takeaways 1 orange, How many total oranges are there in the image?",
+        "answer": 0
+    }, {
+        "question": "If a person adds 3 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and takeaways 1 orange, How many total fruits are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and adds 2 oranges, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and adds 2 oranges, How many total oranges are there in the image?",
+        "answer": 3
+    }, {
+        "question": "If a person adds 3 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and adds 2 oranges, How many total fruits are there in the image?",
+        "answer": 8
+    }, {
+        "question": "If a person adds 3 apples and adds 3 oranges, How many total apples are there in the image?",
+        "answer": 5
+    }, {
+        "question": "If a person adds 3 apples and adds 3 oranges, How many total oranges are there in the image?",
+        "answer": 4
+    }, {
+        "question": "If a person adds 3 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "If a person adds 3 apples and adds 3 oranges, How many total fruits are there in the image?",
+        "answer": 9
+    }, {
+        "question": "After adding 1 apple and adding 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 1 apple and taking away 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After taking away 1 apple and adding 1 orange, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 apple and taking away 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 1 apple and adding 2 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 apple and adding 2 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After adding 1 apple and adding 3 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 apple and adding 3 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 apples and adding 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 2 apples and taking away 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After taking away 2 apples and adding 1 orange, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 2 apples and taking away 1 orange, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 apples and adding 2 oranges, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After taking away 2 apples and adding 2 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 apples and adding 3 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 2 apples and adding 3 oranges, are there more apples than oranges?",
+        "answer": "No"
+    }, {
+        "question": "After adding 3 apples and adding 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 apples and taking away 1 orange, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 apples and adding 2 oranges, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 apples and adding 3 oranges, are there more apples than oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 1 orange and adding 1 apple, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 1 orange and taking away 1 apple, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After taking away 1 orange and adding 1 apple, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 orange and taking away 1 apple, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 1 orange and adding 2 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 1 orange and taking away 2 apples, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After taking away 1 orange and adding 2 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 orange and taking away 2 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 1 orange and adding 3 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After taking away 1 orange and adding 3 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 oranges and adding 1 apple, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 oranges and taking away 1 apple, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 2 oranges and adding 2 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 2 oranges and taking away 2 apples, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 2 oranges and adding 3 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 3 oranges and adding 1 apple, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 oranges and taking away 1 apple, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 oranges and adding 2 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "After adding 3 oranges and taking away 2 apples, are there more oranges than apples?",
+        "answer": "Yes"
+    }, {
+        "question": "After adding 3 oranges and adding 3 apples, are there more oranges than apples?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are added and 1 orange are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 1 orange are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 1 orange are taken away, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 1 orange are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are taken away and 1 orange are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are taken away and 1 orange are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are taken away and 1 orange are taken away, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are taken away and 1 orange are taken away, are there at least 2 fruits?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are added and 2 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 2 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are taken away and 2 oranges are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are taken away and 2 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 3 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are added and 3 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 apple are taken away and 3 oranges are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 1 apple are taken away and 3 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 1 orange are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 1 orange are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 1 orange are taken away, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 1 orange are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are taken away and 1 orange are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 2 apples are taken away and 1 orange are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are taken away and 1 orange are taken away, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 2 apples are taken away and 1 orange are taken away, are there at least 2 fruits?",
+        "answer": "No"
+    }, {
+        "question": "If 2 apples are added and 2 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 2 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are taken away and 2 oranges are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 2 apples are taken away and 2 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 3 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are added and 3 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 apples are taken away and 3 oranges are added, are there at least 2 apples?",
+        "answer": "No"
+    }, {
+        "question": "If 2 apples are taken away and 3 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 1 orange are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 1 orange are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 1 orange are taken away, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 1 orange are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 2 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 2 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 3 oranges are added, are there at least 2 apples?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 apples are added and 3 oranges are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 1 apple are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 1 apple are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 1 apple are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 1 apple are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are taken away and 1 apple are added, are there at least 2 oranges?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are taken away and 1 apple are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are taken away and 1 apple are taken away, are there at least 2 oranges?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are taken away and 1 apple are taken away, are there at least 2 fruits?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are added and 2 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 2 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 2 apples are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 2 apples are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are taken away and 2 apples are added, are there at least 2 oranges?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are taken away and 2 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are taken away and 2 apples are taken away, are there at least 2 oranges?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are taken away and 2 apples are taken away, are there at least 2 fruits?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are added and 3 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are added and 3 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 1 orange are taken away and 3 apples are added, are there at least 2 oranges?",
+        "answer": "No"
+    }, {
+        "question": "If 1 orange are taken away and 3 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 1 apple are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 1 apple are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 1 apple are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 1 apple are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 2 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 2 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 2 apples are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 2 apples are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 3 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 2 oranges are added and 3 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 1 apple are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 1 apple are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 1 apple are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 1 apple are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 2 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 2 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 2 apples are taken away, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 2 apples are taken away, are there at least 2 fruits?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 3 apples are added, are there at least 2 oranges?",
+        "answer": "Yes"
+    }, {
+        "question": "If 3 oranges are added and 3 apples are added, are there at least 2 fruits?",
+        "answer": "Yes"
+    }]
+}
